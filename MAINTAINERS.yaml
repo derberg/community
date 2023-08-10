@@ -168,7 +168,6 @@
   company: Postman
   isTscMember: true
   repos:
-    - avro-schema-parser
     - openapi-schema-parser
     - chatbot
     - diff
